@@ -39,7 +39,7 @@ Dashboard de catálogo de jogos que permite pesquisar e filtrar jogos por gêner
 
 ## 🌐 Deploy
 O app está hospedado no Vercel (ou outro serviço, se houver):  
-[Ver Game Hub 2 ao vivo](https://seu-deploy.vercel.app)  *(substitua pelo link real do deploy)*
+[Ver Game Hub 2 ao vivo](https://game-hub2-omega.vercel.app/)
 
 ---
 
